@@ -2,6 +2,6 @@
 <body>
 <h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
   <p> My Name is MSTF </p>
-   <p> Test Jenkins Pipeline </p>
+   <p> Test Jenkins Pipeline .... </p>
 </body>
 </html>

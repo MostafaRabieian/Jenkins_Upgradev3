@@ -35,10 +35,14 @@ public class TestGreeter {
   }
 
     @Test
+<<<<<<< HEAD
   public void greetShouldIncludeGreetingMessage() {
 <<<<<<< HEAD
     String someone = "World, Thanks you making me Happy MSTF";
 =======
+=======
+  public void greetShouldIncludeGreetingMessege() {
+>>>>>>> 53cf3a95e88072c8e4921fe0d09bf86b398a79e4
     String someone = "World, Thanks you making me Happy... MSTF";
 >>>>>>> 8ff49a5fd6efed21ba7ae0af5644ffeec8a140f2
 
